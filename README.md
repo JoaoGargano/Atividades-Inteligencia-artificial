@@ -1,5 +1,5 @@
 # Atividades-Inteligencia-artificial
-Repositório para entrega das atividades em Python - Google Colab
+Repositório para entrega das atividades - Google Colab
 
 ## Atividade 01 - Tutorial Perceptron
 Google Colab:
